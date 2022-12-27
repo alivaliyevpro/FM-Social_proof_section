@@ -178,6 +178,11 @@ body {
         gap: 2rem;
     }
 
+    .card-1 {
+        color: aqua;
+        padding: 2.4rem;
+    }
+
     .review-cards > * {
         max-width: 22.4rem;
         max-height: 16rem;
